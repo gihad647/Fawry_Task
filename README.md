@@ -71,3 +71,5 @@ The project is organized in the `ecommerce.model` package.
 
    ExpiringItem milk = new ExpiringItem("Milk", 3.99, 10, LocalDate.of(2025, 12, 31), 1.0);
    NonExpiringItem laptop = new NonExpiringItem("Laptop", 999.99, 5, 2.5);
+##output example
+![Console Output](image.png)
